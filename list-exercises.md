@@ -41,12 +41,12 @@ my_list = [1, 2, “kitten”,  4, “five”, 6, 7]
 access method | value
 --------------|---------
 my_list[0]    | 1
-my_list[1:3]  |
-my_list[1:6]  |
-my_list[1:10] |
-my_list[-1]   |
-my_list[-1:-3]|
-my_list[-3:-1]|
+my_list[1:3]  | 2, 'kitten'
+my_list[1:6]  | 2, 'kitten', 4, 'five', 6
+my_list[1:10] | 2, 'kitten', 4, 'five', 6, 7
+my_list[-1]   | 7
+my_list[-1:-3]| []
+my_list[-3:-1]| 'five', 6
 
 
 (remember to commit after editing this table to contain your answer, and removing this line!)
