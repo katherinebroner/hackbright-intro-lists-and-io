@@ -1,7 +1,11 @@
+def convert_file_to_list(text_file):
+    file_open = open(text_file)
+    file_list = file_open.readlines()
+    file_open.close()
+    return file_list 
 
-food_file = open("sandi_fav_foods.txt")
-sandi_favs = food_file.readlines()
-food_file.close()
+print convert_file_to_list("sandi_fav_foods.txt")
+print convert_file_to_list("katherine_fav_foods.txt")
 
 
-print sandi_favs
+
