@@ -20,7 +20,7 @@ Use the following list for the questions:
 
 ### What would I get if I did my_list[1]?
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list[1] (remember to commit after editing this line to contain your answer!)
 
 ### What are three ways I could access the last element of the list?
 *(HINT: Look up the len method for Python lists.)*
