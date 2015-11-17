@@ -33,7 +33,7 @@ Use the following list for the questions:
 
 ### How would I find the length of the list?
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- len(my_list)(remember to commit after editing this line to contain your answer!)
 
 ### Use the list below to complete the following table (the first one is done for you):
 my_list = [1, 2, “kitten”,  4, “five”, 6, 7]
