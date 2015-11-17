@@ -14,3 +14,17 @@ def compare_favs(list1, list2):
         print "Our favorite foods are different."
 
 compare_favs(list_sandi, list_katherine)
+
+def compare_favs2(list1, list2):
+    if list1[0] in list2:
+        print "same foods", list1[0]
+    elif list1[1] in list2:
+        print "same foods again", list1[1]
+    elif list1[2] in list2:
+        print "same foods a third time", list1[2]
+    else:
+        print "no same"
+
+compare_favs2(list_sandi, list_katherine)
+
+        
