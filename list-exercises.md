@@ -12,7 +12,7 @@ Use the following list for the questions:
 
 ### How would I access the third element in the list? 
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- my_list [2] (remember to commit after editing this line to contain your answer!)
 
 ### How would I access the element at index 3? 
 
